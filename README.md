@@ -1,7 +1,8 @@
 # Coursera-test
 For tests of coursera
 <html>
-<head> <title>
+<head>
+  <title>
 Trying anything with github</title>
 </head>
 <body>
