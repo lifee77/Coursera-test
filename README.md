@@ -1,5 +1,6 @@
 # Coursera-test
 For tests of coursera
+<!DOCTYPE html>
 <html>
 <head>
   <title>
